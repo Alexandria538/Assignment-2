@@ -58,7 +58,7 @@ The process begins with a base drawing, serving as both a compositional referenc
 *Fig. 3. *
 [![Assignment-2][images-fig4]](https://example.com)
 *Fig. 4. *
-[![Assignment-2][images-fig1]](https://example.com)
+[![Assignment-2][images-fig5]](https://example.com)
 *Fig. 5. *
 ## Result and Future Work
 My results show a mixed range of stylistic interpretations with clear ties back to my original drawing. Of the nine generations, there are three distinct groups. Horror, Yarn, and Paper Cut-Out styles fall into 3D explorations. Oil, Art Nouveau, Comic, and Storybook fall into 2D. Cubism and Fauvism presented the most challenging with extensive editing needed to reach an optimal product. I believe my results show how these programs can be pushed to help visual communication, where some styles are more easily replicable and some, while more involved in creating during the editing process, still benefit from the AI generations. I would try to pick styles that were more distinctive from each other. Some in the 2D category are very similar in principle. The most successful generations I believe come from the 3D category, which shows promise in bridging the gap between 2D references and 3D stylistic interpretations in a creative pipeline. I believe this can be expanded further to push the boundaries of what these programs can do. Other programs will likely show different strengths and weaknesses in stylistic interpretations. I am curious if similar results would stem from different characters or even drawings focusing on landscape.
