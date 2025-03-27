@@ -37,7 +37,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 
 [![Assignment-2][images-fig1]](https://example.com)
-*Fig. 1. * 
+*Fig. 1. These are the 9 style explorations I did based on my initial image on the top left, using Adobe Firefly’s Generations and editing in Photoshop. The styles are: Original, Oil Painting (Impressionism), Art Nouveau, Cubism, Fauvism, Horror Movie (Steven King), Yarn (DreamWorks Trolls), Cut out Paper, Comic Book, Watercolor (Children’s Book).* 
 
 <!-- Abstract -->
 ## Abstract
