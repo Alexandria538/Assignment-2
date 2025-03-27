@@ -21,7 +21,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: Recursive Fractals and Firefly</h3>
+  <h3 align="center">Assinment_2: AI Character Style Exploration and Firefly Generations</h3>
 
   <p align="center">
     My project is trying to encapsulate the idea behind combining AI Image generations and raster-based editing to establish a character style variation development workflow that assists in rapid concept visualization team communication. My primary goals were to maintain visual consistency while pushing the exploration of styles and the abilities of the chosen programs. 
