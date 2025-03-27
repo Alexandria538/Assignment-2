@@ -57,7 +57,7 @@ The process begins with a base drawing, serving as both a compositional referenc
 [![Assignment-2][images-fig3]](https://example.com)
 *Fig. 3. Here are examples of stylistic matching within my project. I have selected four of my nine images and compared them to my references which I use as stylistic references in Adobe Firefly.*
 [![Assignment-2][images-fig4]](https://example.com)
-*Fig. 4. *
+*Fig. 4. This is a range of generations I did for the Yarn style influenced by the screen captures of the DreamWorks movie Trilogy Trolls. While the images largely look similar, there are small differences that persist in color, texture, lighting, etc. For this, I decided to generate no less than 20 images for each style. The more I generated and experimented, the closer I was able to lead Firefly to generate images more to my target style.*
 [![Assignment-2][images-fig5]](https://example.com)
 *Fig. 5. *
 ## Result and Future Work
