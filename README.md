@@ -55,7 +55,7 @@ The process begins with a base drawing, serving as both a compositional referenc
 [![Assignment-2][images-fig2]](https://example.com)
 *Fig. 2. This is a drawn-out pipeline demonstrating my creative process for this assignment. Starting with a clear original drawing, I pair it with whichever style exploration(s) I collect references to use to influence the generations. In Adobe Firefly, I use compositional and stylistic references on top of prompt input and filters. From this, I generate any number of images, some of which will be unusable. Of the usable generations, I select 1 or multiple to bring into the editing phase in Photoshop. Here is where kit bashing, touch-ups, cropping, color correction, filters, and other editing techniques occur. Depending on the style, this part can be more or less intensive but the result should be compositionally similar to the original drawing but should demonstrate the elements of the target style.*
 [![Assignment-2][images-fig3]](https://example.com)
-*Fig. 3. *
+*Fig. 3. Here are examples of stylistic matching within my project. I have selected four of my nine images and compared them to my references which I use as stylistic references in Adobe Firefly.*
 [![Assignment-2][images-fig4]](https://example.com)
 *Fig. 4. *
 [![Assignment-2][images-fig5]](https://example.com)
