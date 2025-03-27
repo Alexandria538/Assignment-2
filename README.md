@@ -74,7 +74,9 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 [1] Bansal, Gaurang, et al. "Revolutionizing visuals: the role of generative AI in modern image generation." ACM Transactions on Multimedia Computing, Communications and Applications 20.11 (2024): 1-22.
 
 [2] Huang, Julia. "The Art of AI: A Human-Centered AI (HCAI) User Study of Integrating Image-Generative Tools in Visual Art Workflows: The Case Of Adobe Firefly." (2024).
+
 [3] Long, L. I. N. G., et al. "Sketchar: Supporting Character Design and Illustration Prototyping Using Generative AI." Proceedings of the ACM on Human-Computer Interaction 8.CHI PLAY (2024): 337.
+
 [4] Xu, Chengyuan. “Coherent Video Style Transfer Demo (2019, Private).” YouTube, YouTube, 27 Oct. 2022, www.youtube.com/watch?v=nQ_itjCBEAs.
 
 <!-- CONTACT -->
