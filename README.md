@@ -36,8 +36,8 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 </div>
 
 
-
-*Fig. 1. 
+[![Assignment-2][images-fig1]](https://example.com)
+*Fig. 1. * 
 
 <!-- Abstract -->
 ## Abstract
