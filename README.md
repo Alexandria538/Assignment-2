@@ -26,7 +26,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <p align="center">
     My project is trying to encapsulate the idea behind combining AI Image generations and raster-based editing to establish a character style variation development workflow that assists in rapid concept visualization team communication. My primary goals were to maintain visual consistency while pushing the exploration of styles and the abilities of the chosen programs. 
     <br />
-    <a href="[https://github.com/Alexandria538/Assignment-2/blob/main/Assignment_2_Final.pdf]"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/Alexandria538/Assignment-2/blob/main/Assignment_2_Final.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://tdelafuente.myportfolio.com/">Tessa DeLaFuente</a>
