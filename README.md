@@ -35,7 +35,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   </p>
 </div>
 
-[![Assignment-2][images-image_01]](https://example.com)
+
 
 *Fig. 1. 
 
@@ -51,18 +51,20 @@ My interest in Character development has developed from an interest in animation
 
 ## Methodology
 The process begins with a base drawing, serving as both a compositional reference and consistency anchor. For my exploration I decided to use my own character created in Photoshop, using a sketch that holds it as a clearly defined individual. I pre-select styles for artistic exploration and specific images to use for stylistic reference inputs for Firefly. My artistic investigation spans diverse mediums and aesthetics, including Oil Painting (Impressionism), Art Nouveau, Cubism, Fauvism, Horror Movie (Steven King), Yarn (Trolls), Cut out Paper, Comic, Watercolor (Children’s Book). For each, I carefully select the parameters in Firefly to match artistic elements - color, texture, lighting – and from this, no less than 20 images are generated for each style. It is necessary to apply the high impact of the compositional reference, ensuring the outcomes will more closely resemble the original piece. The more time is dedicated to selecting the parameters and exploring generations, the closer one will get to an optimal outcome. The generated images then serve as either direct bases or kit-bashing components, which I refine in Photoshop to achieve a final character image that is a balance between the original design and the target style. While some styles require minimal editing such as color correcting, others require more refinement, particularly when dealing with expressive and bold styles. In extensive cases, it may be necessary to heavily edit the image and almost entirely eliminate the AI generation elements. This systematic approach to style exploration, combining AI generation with traditional editing techniques, creates a versatile pipeline that can be adapted to various programs with similar toolsets to Firefly and Photoshop. This establishes a streamlined process with creative control and visual consistency across diverse stylistic interpretations, allowing easier visual communication among individuals in a creative pipeline with a reduced reliance on artistic creation. 
-[![4-comma][images-fig2]](https://example.com)
+
 
 *Fig. 2. *
-
+*Fig. 3. *
+*Fig. 4. *
+*Fig. 5. *
 ## Result and Future Work
 My results show a mixed range of stylistic interpretations with clear ties back to my original drawing. Of the nine generations, there are three distinct groups. Horror, Yarn, and Paper Cut-Out styles fall into 3D explorations. Oil, Art Nouveau, Comic, and Storybook fall into 2D. Cubism and Fauvism presented the most challenging with extensive editing needed to reach an optimal product. I believe my results show how these programs can be pushed to help visual communication, where some styles are more easily replicable and some, while more involved in creating during the editing process, still benefit from the AI generations. I would try to pick styles that were more distinctive from each other. Some in the 2D category are very similar in principle. The most successful generations I believe come from the 3D category, which shows promise in bridging the gap between 2D references and 3D stylistic interpretations in a creative pipeline. I believe this can be expanded further to push the boundaries of what these programs can do. Other programs will likely show different strengths and weaknesses in stylistic interpretations. I am curious if similar results would stem from different characters or even drawings focusing on landscape.
 
-[![4-comma][images-fig3]](https://example.com)
-*Fig. 3. *
-[![4-comma][images-fig4]](https://example.com)
 
-*Fig. 4. *
+*Fig. 6. *
+
+
+*Fig. 7. *
 
 ## Conclusion
 The workflow I created successfully demonstrates the potential of AI-assisted character development, showing methods of effective collaboration between AI assistance and human creativity. Using Adobe Firefly and Photoshop, maintaining visual consistency was essential while pushing to create a variety of styles. I found some styles need more editing to better achieve the targeted style. Conversions from the 3D styles were more easily edited, while the more abstract styles required more time to edit. This shows that AI can excel for rapid concept visualization. These programs particularly show promise in parameter tuning and strategic post-processing tools to explore my chosen styles.
